@@ -1,0 +1,38 @@
+.colorButton {
+    background-color: rgb(125,150,102) ;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    border: none;
+    box-shadow:none;
+    border-radius: 50%;
+}
+
+#buttonWrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 600px;
+    margin: 0 auto;
+}
+
+#value{
+    text-align: center;
+    margin: 0 auto;
+}
+#answer{
+    text-align: center;
+    margin: 0 auto;
+}
+#reset{
+    text-align: center;
+    margin: 0 auto;
+}
+#resetButton{
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
